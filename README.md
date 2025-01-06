@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Bang</h1>
 <h3 align="center">Software Engineer at 1Byte Software.</h3>
 
-- 🔭 I’m currently working on [JFramework](https://jframework.io), [VardyTests](https://vardytests.com/)  [AuthZero](https://github.com/steve-bang/AuthZero)
+- 🔭 I’m currently working on [JFramework](https://jframework.io), [VardyTests](https://vardytests.com/),  [AuthZero](https://github.com/steve-bang/AuthZero)
 
 - 🌱 I’m currently learning **.Net, Azure, .Net Aspire, NextJS, ReactJS, TypeScript and how to build good software.**
 
